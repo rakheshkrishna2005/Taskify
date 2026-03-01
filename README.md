@@ -805,6 +805,8 @@ server.port=8081
 6. Filter completed: `GET /api/todos/filter/completed`
 7. Delete complete: `DELETE /api/todos/1`
 
+---
+
 ## App
 
-[App](https://github.com/rakheshkrishna2005/Taskify/blob/main/public/app.png)
+![App](https://github.com/rakheshkrishna2005/Taskify/blob/main/public/app.png)
