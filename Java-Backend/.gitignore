@@ -1,0 +1,166 @@
+# Maven & Build
+target/
+build/
+.m2/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+dist/
+
+# IDE & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.sublime-project
+.sublime-workspace
+*.code-workspace
+*.iml
+.classpath
+.project
+.settings/
+
+# Python (Virtual Environment & Cache)
+venv/
+env/
+ENV/
+.venv/
+.env.venv
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Node.js (if frontend included)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+.next/
+out/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment Variables (NEVER commit .env files with secrets)
+.env
+.env.local
+.env.production
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+.Thumbs.db
+Desktop.ini
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+todo_db/
+database.db
+
+# Compiled Files
+*.class
+*.o
+*.so
+*.a
+
+# Package Files
+*.deb
+*.rpm
+*.exe
+.gradle/
+.gradletasknamecache
+
+# IntelliJ
+out/
+*.iws
+
+# Eclipse
+.externalToolBuilders/
+.loadpath
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# macOS
+.AppleDouble
+.LSOverride
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup Files
+*.backup
+*.bak
+*.swp
+*~
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Miscellaneous
+.env.local
+.env.test
+.gradle
+.idea
+.vscode
+*.iml
+*.sublime-*
+.DS_Store
+node_modules
+npm-debug.log
+yarn-error.log
